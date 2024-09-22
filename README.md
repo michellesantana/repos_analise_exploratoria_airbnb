@@ -8,7 +8,7 @@
 
 Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Link para o projeto completo](https://github.com/michellesantana/repos_analise_exploratoria_airbnb/blob/main/%5BMeu_Projeto%5D_Analisando_os_Dados_do_Airbnb.ipynb)
 
 **Links para me acharem:**
 * [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
@@ -16,15 +16,3 @@ Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção a
 * [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
 * [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
 * [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
-
-
-
-
-## Outros Projetos Meus:
-
-Business
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
-
-* **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
- 
-* **[RFM Customer Segmentation With K-Means](https://bit.ly/2RFTWi2)**
